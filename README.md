@@ -1,4 +1,4 @@
-# ModMinecraft
+by Aquasama
 
 # Général :
 
